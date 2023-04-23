@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @lunarnuts
-- I'm a Go Developer @ EPAM Systems
-- 👀 I’m interested in Financial Programming, Java, Golang, C++
-- 🌱 I’m currently learning Java/Golang Backend Development
-- 📫 How to reach me n.kuandyk1995@gmail.com
+- Go Developer @ Satty Zhuldyz
+- reach me @ n.kuandyk1995@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=lunarnuts)
 <!---
