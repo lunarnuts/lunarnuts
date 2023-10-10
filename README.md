@@ -1,4 +1,4 @@
-- Go Developer @ Satty Zhuldyz
+- Go Developer @ airbapay
 - reach me @ n.kuandyk1995@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=lunarnuts)
